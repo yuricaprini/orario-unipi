@@ -1,0 +1,11 @@
+*.apk
+*.keystore
+assets/
+bin/
+gen/
+libs/
+res/
+ic_launcher-web.png
+lint.xml
+proguard-project.txt
+project.properties
